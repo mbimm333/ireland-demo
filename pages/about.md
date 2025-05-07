@@ -1,5 +1,5 @@
 ---
-title: The Rundown
+title: Tell Me the Story
 layout: story
 permalink: /story.html
 # include CollectionBuilder info at bottom
