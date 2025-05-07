@@ -22,10 +22,10 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
 # title of site appears in banner
 title: Morgan's Irish Cred 
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: Finally... an explanation
+tagline: Finally... an explanation.
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "This is a test site created at DHSI-East using archival and genealogical research materials from FamilySearch.org, ScotlandsPeople, National Library of Scotland, and more."
+description: "This is a demo site created at DHSI-East using archival and genealogical research materials from FamilySearch.org, ScotlandsPeople, National Library of Scotland, and more."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: Morgan @ DHSI-East
 
