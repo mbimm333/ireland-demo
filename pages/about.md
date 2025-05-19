@@ -30,4 +30,4 @@ In the same 1881 census, the Petries are listed as residing at [279 Dobbies Loan
 
 Robert Petrie was 15 at this time with no younger siblings. His father's occupation is listed as shoemaker journeyman. Robert's occupation is listed as a plumber's apprentice.
 
-The exact neighbourhood where Mary and Robert met was full of tenements and poorhouses, populated largely by Irish immigrants to the city. Due to redevelopment after WWII, their exact addresses no longer exist.
+The exact neighbourhood where Mary and Robert met was full of tenements and poorhouses, populated largely by Irish immigrants to the city. Due to post-WWII redevelopment, their exact addresses no longer exist.
