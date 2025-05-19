@@ -1,6 +1,6 @@
 ---
 title: Tell Me the Story
-layout: Story
+layout: about
 permalink: /story.html
 ---
 ## About the Collection
