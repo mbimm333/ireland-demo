@@ -18,9 +18,9 @@ For full details of creating your own collection site, visit [CollectionBuilder 
 ## The Story So Far
 Benjamin Booth and Ellen Brooks were married on April 12, 1865 at [Woods Chapel](http://www.woodschapel.armagh.anglican.org/en/home) in the parish of Ardtrea, County Londonderry, Ireland. Both of their parents were farmers. Benjamin was 19 at the time of the wedding; Ellen was 17.
 
-Robert Petrie was born on December 5, 1865 to parents Andrew Petrie and Sarah Petrie (née Perry). The birth was registered in Belfast, County Antrim. Andrew's occupation is listed as shoe maker.
+Robert Petrie was born on December 5, 1865 to parents Andrew Petrie and Sarah Petrie (née Perry). The birth was registered in Belfast, County Antrim, Ireland. Andrew's occupation is listed as shoe maker.
 
-Mary Booth was born on February 24, 1866 to parents Benjamin "Beu" Boothe and Esther Boothe. The birth was registered in Margherafelt, County Londonderry. Benjamin's occupation is listed as labourer.
+Mary Booth was born on February 24, 1866 to parents Benjamin "Beu" Boothe and Esther Boothe. The birth was registered in Margherafelt, County Londonderry, Ireland. Benjamin's occupation is listed as labourer.
 
 In the 1881 census, the Booths are listed as residing at [118 Parliamentary Road](https://maps.nls.uk/view/216810685#zoom=4.8&lat=1249&lon=2735&layers=BT) in the neighbourhood of St. Rollox, Lanarkshire, Scotland. Today, this area is part of the city of Glasgow.
 
