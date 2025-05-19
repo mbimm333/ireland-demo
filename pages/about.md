@@ -24,7 +24,7 @@ Mary Booth was born on February 24, 1866 to parents Benjamin "Beu" Boothe and Es
 
 In the 1881 census, the Booths are listed as residing at [118 Parliamentary Road](https://maps.nls.uk/view/216810685#zoom=4.8&lat=1249&lon=2735&layers=BT) in the neighbourhood of St. Rollox, Lanarkshire, Scotland. Today, this address is part of the city of Glasgow.
 
-Mary Booth was 15 at this time with two younger siblings, aged five and two. Her father's occupation is listed as a carter — someone who transports goods with a horse and cart. Mary's occupation is listed as bookfolder.
+Mary Booth was 15 at this time with two younger siblings, aged five and two. Her father's occupation is listed as a carter — someone who transports goods with a horse and cart. Mary's occupation is listed as [bookfolder](https://blog.library.si.edu/blog/2014/10/16/nineteenth-century-book-folders/), which was not an uncommon job for a young woman at the time.
 
 In the same 1881 census, the Petries are listed as residing at [279 Dobbies Loan](https://maps.nls.uk/view/216810685#zoom=4.8&lat=1249&lon=2735&layers=BT) in the neighbourhood of St. Rollox, Lanarkshire, Scotland. Today, this address is part of the city of Glasgow.
 
