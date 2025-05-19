@@ -16,15 +16,16 @@ This site is generated using [CollectionBuilder-GH](https://collectionbuilding.g
 
 For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
 ## The Story So Far
-Benjamin Booth and Ellen Brooks were married on April 12, 1865 at [Woods Chapel] (http://www.woodschapel.armagh.anglican.org/en/home) in the parish of Ardtrea, County Londonderry, Ireland. Both of their parents were farmers.
+Benjamin Booth and Ellen Brooks were married on April 12, 1865 at [Woods Chapel](http://www.woodschapel.armagh.anglican.org/en/home) in the parish of Ardtrea, County Londonderry, Ireland. Both of their parents were farmers.
 
 Robert Petrie was born on December 5, 1865 to parents Andrew Petrie and Sarah Petrie (née Perry). The birth was registered in Belfast, County Antrim. Andrew's occupation is listed as "shoe maker."
 
 Mary Booth was born on February 24, 1866 to parents Benjamin "Beu" Boothe and Esther Boothe. The birth was registered in Margherafelt, County Londonderry. Beu's occupation is listed as "labourer."
 
-In the 1881 census, the Booths are listed as residing at [118 Parliamentary Road] (https://maps.nls.uk/view/216810685#zoom=4.8&lat=1249&lon=2735&layers=BT) in the neighbourhood of St. Rollox, Lanarkshire, Scotland. Today, this address is part of the city of Glasgow.
+In the 1881 census, the Booths are listed as residing at [118 Parliamentary Road](https://maps.nls.uk/view/216810685#zoom=4.8&lat=1249&lon=2735&layers=BT) in the neighbourhood of St. Rollox, Lanarkshire, Scotland. Today, this address is part of the city of Glasgow.
 
 Mary Booth was 15 at this time with two younger siblings, aged five and two. Her father's occupation is listed as a carter — someone who transports goods with a horse and cart. Mary's occupation is listed as "bookfolder."
+
 In the same 1881 census, the Petries are listed as residing at [279 Dobbies Loan](https://maps.nls.uk/view/216810685#zoom=4.8&lat=1249&lon=2735&layers=BT) in the neighbourhood of St. Rollox, Lanarkshire, Scotland. Today, this address is part of the city of Glasgow.
 
 Robert Petrie was 15 at this time with no younger siblings. His father's occupation is listed as "shoemaker journeyman." Robert's occupation is listed as a plumber's apprentice.
